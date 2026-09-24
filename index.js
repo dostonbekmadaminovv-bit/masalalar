@@ -44,18 +44,18 @@
 // umumiy summani hisoblab bersin
 
 //////////////////////////////////////
-const cars = [
-  { id: 1, name: "Chevrolet Gentra", price: 15000, color: "Oq" },
-  { id: 2, name: "Chevrolet Cobalt", price: 12500, color: "Kulrang" },
-  { id: 3, name: "BYD Song Plus", price: 32000, color: "Qora" },
-  { id: 4, name: "Kia K5", price: 28000, color: "To'q ko'k" },
-  { id: 5, name: "Hyundai Sonata", price: 27500, color: "Kumushrang" },
-  { id: 6, name: "Toyota Camry", price: 35000, color: "Qora" },
-  { id: 7, name: "BMW X5", price: 75000, color: "To'q kulrang" },
-  { id: 8, name: "Mercedes-Benz E-Class", price: 80000, color: "Oq" },
-  { id: 9, name: "Chevrolet Tracker", price: 19000, color: "Qizil" },
-  { id: 10, name: "Tesla Model 3", price: 42000, color: "Moviy" },
-];
+// const cars = [
+//   { id: 1, name: "Chevrolet Gentra", price: 15000, color: "Oq" },
+//   { id: 2, name: "Chevrolet Cobalt", price: 12500, color: "Kulrang" },
+//   { id: 3, name: "BYD Song Plus", price: 32000, color: "Qora" },
+//   { id: 4, name: "Kia K5", price: 28000, color: "To'q ko'k" },
+//   { id: 5, name: "Hyundai Sonata", price: 27500, color: "Kumushrang" },
+//   { id: 6, name: "Toyota Camry", price: 35000, color: "Qora" },
+//   { id: 7, name: "BMW X5", price: 75000, color: "To'q kulrang" },
+//   { id: 8, name: "Mercedes-Benz E-Class", price: 80000, color: "Oq" },
+//   { id: 9, name: "Chevrolet Tracker", price: 19000, color: "Qizil" },
+//   { id: 10, name: "Tesla Model 3", price: 42000, color: "Moviy" },
+// ];
 // eng qimmat mashinani ajratib oling
 // function maxPrice(arr) {
 //   let maxPrice = 0;
@@ -76,7 +76,7 @@ const cars = [
 ///===============================
 
 // eng arzon mashinani qaytari bersin
-// function minPrice(arr) {
+// function minPrice(arr)
 //   let minPrice1 = 80000;
 //   let car = null;
 //   for (let i of arr) {
